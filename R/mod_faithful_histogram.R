@@ -53,7 +53,7 @@ mod_faithful_histogram_server <- function(input, output, session,
     hist(
       x(), breaks = bins(), freq = !input$density,
       main = paste("Histogram of", variable()),
-      col = "darkgray", border = "white"
+      col = "forestgreen", border = "white"
     )
   })
 
