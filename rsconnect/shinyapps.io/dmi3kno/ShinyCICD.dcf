@@ -1,0 +1,10 @@
+name: ShinyCICD
+title:
+username:
+account: dmi3kno
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2482057
+bundleId: 3295576
+url: https://dmi3kno.shinyapps.io/ShinyCICD/
+when: 1592663857.65455
